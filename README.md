@@ -1,7 +1,7 @@
 # Computational-Biology
 
 ## Aim: 
-Explore the causes of cancer from a Kidney Cancer database.
+Explore the causes of cancer from a Kidney Cancer database using Machine Learning.
 
 ## Project Description
 The report details my investigatition into 3 Kidney cancers along with normal samples from the TCGA TARGET GTEx cohort. The cancer types are Chromophobe, Clear Cell and Papillary. I investigated the structure of the data using dimensionality reduction and K-means clustering, followed by linear models to find similarities between the cancer types. Then, Random Forest Classifiers and Decision Trees to find the most important features which differentiate and predict these cancers. 
