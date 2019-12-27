@@ -8,7 +8,7 @@ The report details my investigatition into 3 Kidney cancers along with normal sa
 
 ## Documents:
 
-The PDF document details the results and what machine learning algorithms were used. 
+The PDF report details the results and what machine learning algorithms were used. 
 
 The ipynb file contains the code used for analysing the data. 
 
